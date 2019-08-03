@@ -1,1 +1,2 @@
-Hello, World!
+Hello, World simple java maven !
+
